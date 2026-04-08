@@ -1,0 +1,10 @@
+{
+    "harsh": {
+        "password": "$2b$12$exDFyNnxC1..LvWtw7YUEeF94OUBjgUIGXo2R28dTiF0yyJupMDAi",
+        "secret": "gAAAAABp1raZahfsek1aKD1ZW9Q4xO-vBCq-y9ntDp7J4c0xHmwZsmDMwK6F97Jtuo5b0zyrSxNaEG7EASRiaiQkrN9ot0Gblw=="
+    },
+    "mayank": {
+        "password": "$2b$12$s/uU4Kf0ubNZ2Kxv/rmBz.MemOpdcB1cBmVBIADw1rUEU.iCgQ5pS",
+        "secret": "gAAAAABp1rkt1BALHIaBauZQjPhtnrGYBOlvT0oHKtJxWjja4M1Edj3TISCOkn6L-pv5vF8q9V9mHpr2PcoCCTWaoamRyIu21Q=="
+    }
+}
