@@ -97,3 +97,13 @@ Requires a secret key for decryption
 
 ->Encryption key handling is basic
 
+🎯 Purpose
+
+This project is designed to:
+
+#Build intuition for authentication systems
+
+#Understand real-world security practices
+
+#Serve as a foundation for backend development
+
